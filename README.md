@@ -1,4 +1,4 @@
-Updated: 2025-08-20
+Updated: 2025-08-23
 
 # ERC1155-Nft-Token
 This solidity contract allow you to mint your ERC1155 nfts tokens on to the opensea or any other nft hosting website.
